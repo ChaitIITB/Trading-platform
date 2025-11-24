@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+.vercel/
+*.log
+.DS_Store
+.env*.local
+.vscode/
+.idea/
+coverage/
+*.tsbuildinfo
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
